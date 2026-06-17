@@ -118,26 +118,6 @@ a {
   height: 7.4%;
 }
 
-.checklist-compliance-fix {
-  position: absolute;
-  left: 50.7%;
-  top: 77.3%;
-  z-index: 2;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 45.8%;
-  height: 4.6%;
-  color: #002a19;
-  background: #fcf7e5;
-  font-family: "Yu Mincho", "Hiragino Mincho ProN", serif;
-  font-size: clamp(10px, 3vw, 22px);
-  font-weight: 700;
-  line-height: 1;
-  letter-spacing: -0.08em;
-  text-shadow: 1px 1px 0 rgba(210, 220, 200, 0.5);
-}
-
 .qa-section {
   position: relative;
   overflow: hidden;
